@@ -1,2 +1,5 @@
 i can't do this anymore
-Changes from <master> - new changes!
+Changes from <master>
+Changes from <first>
+
+Text from master: new changes!!!
